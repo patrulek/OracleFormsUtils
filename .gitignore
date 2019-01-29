@@ -1,11 +1,16 @@
 /Debug
 /Release
+/x64
 /Common/Debug
 /Common/Release
+/Common/x64
 /Comparer/Debug
 /Comparer/Release
+/Comparer/x64
 /LibAttacher/Debug
 /LibAttacher/Release
+/LibAttacher/x64
 /LibCleaner/Debug
 /LibCleaner/Release
+/LibCleaner/x64
 /.vs
