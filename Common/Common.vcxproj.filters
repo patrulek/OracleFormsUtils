@@ -15,15 +15,192 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="stdafx.h">
+    <ClInclude Include="include\D2FALB.H">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="targetver.h">
+    <ClInclude Include="include\D2FALT.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FBLK.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FCNV.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FCRD.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FCTE.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FCTX.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FDEF.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FDSA.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FDSC.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FEDT.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FERR.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FFMD.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FFNT.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FFPM.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FGRA.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FITM.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FLCM.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FLIB.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FLOV.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FLPU.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FMMD.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FMNI.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FMNU.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FMPM.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FOB.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FOBG.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FOGC.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FOLB.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FOLT.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FPGU.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FPNT.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FPPC.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FPR.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FPRIV.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FRCG.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FRCS.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FRDB.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FREL.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FRPT.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FTBP.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FTRG.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FTSP.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FTXS.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FVAT.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D2FWIN.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\dllmain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\easylogger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\easylogger-impl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Exceptions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Expected.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FAPIContext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FAPILogger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FAPIModule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FAPIUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FAPIWrapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FormsObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ORATYPES.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Property.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stdafx.cpp">
+    <ClCompile Include="src\stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

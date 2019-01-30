@@ -18,6 +18,72 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\D2FALB.H" />
+    <ClInclude Include="include\D2FALT.H" />
+    <ClInclude Include="include\D2FBLK.H" />
+    <ClInclude Include="include\D2FCNV.H" />
+    <ClInclude Include="include\D2FCRD.H" />
+    <ClInclude Include="include\D2FCTE.H" />
+    <ClInclude Include="include\D2FCTX.H" />
+    <ClInclude Include="include\D2FDEF.H" />
+    <ClInclude Include="include\D2FDSA.H" />
+    <ClInclude Include="include\D2FDSC.H" />
+    <ClInclude Include="include\D2FEDT.H" />
+    <ClInclude Include="include\D2FERR.H" />
+    <ClInclude Include="include\D2FFMD.H" />
+    <ClInclude Include="include\D2FFNT.H" />
+    <ClInclude Include="include\D2FFPM.H" />
+    <ClInclude Include="include\D2FGRA.H" />
+    <ClInclude Include="include\D2FITM.H" />
+    <ClInclude Include="include\D2FLCM.H" />
+    <ClInclude Include="include\D2FLIB.H" />
+    <ClInclude Include="include\D2FLOV.H" />
+    <ClInclude Include="include\D2FLPU.H" />
+    <ClInclude Include="include\D2FMMD.H" />
+    <ClInclude Include="include\D2FMNI.H" />
+    <ClInclude Include="include\D2FMNU.H" />
+    <ClInclude Include="include\D2FMPM.H" />
+    <ClInclude Include="include\D2FOB.H" />
+    <ClInclude Include="include\D2FOBG.H" />
+    <ClInclude Include="include\D2FOGC.H" />
+    <ClInclude Include="include\D2FOLB.H" />
+    <ClInclude Include="include\D2FOLT.H" />
+    <ClInclude Include="include\D2FPGU.H" />
+    <ClInclude Include="include\D2FPNT.H" />
+    <ClInclude Include="include\D2FPPC.H" />
+    <ClInclude Include="include\D2FPR.H" />
+    <ClInclude Include="include\D2FPRIV.H" />
+    <ClInclude Include="include\D2FRCG.H" />
+    <ClInclude Include="include\D2FRCS.H" />
+    <ClInclude Include="include\D2FRDB.H" />
+    <ClInclude Include="include\D2FREL.H" />
+    <ClInclude Include="include\D2FRPT.H" />
+    <ClInclude Include="include\D2FTBP.H" />
+    <ClInclude Include="include\D2FTRG.H" />
+    <ClInclude Include="include\D2FTSP.H" />
+    <ClInclude Include="include\D2FTXS.H" />
+    <ClInclude Include="include\D2FVAT.H" />
+    <ClInclude Include="include\D2FWIN.H" />
+    <ClInclude Include="include\dllmain.h" />
+    <ClInclude Include="include\easylogger-impl.h" />
+    <ClInclude Include="include\easylogger.h" />
+    <ClInclude Include="include\Exceptions.h" />
+    <ClInclude Include="include\Expected.h" />
+    <ClInclude Include="include\FAPIContext.h" />
+    <ClInclude Include="include\FAPILogger.h" />
+    <ClInclude Include="include\FAPIModule.h" />
+    <ClInclude Include="include\FAPIUtil.h" />
+    <ClInclude Include="include\FAPIWrapper.h" />
+    <ClInclude Include="include\FormsObject.h" />
+    <ClInclude Include="include\ORATYPES.H" />
+    <ClInclude Include="include\Property.h" />
+    <ClInclude Include="include\stdafx.h" />
+    <ClInclude Include="include\targetver.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\stdafx.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{D677298E-8896-4D92-BDAB-725057422B11}</ProjectGuid>
@@ -146,18 +212,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClInclude Include="stdafx.h" />
-    <ClInclude Include="targetver.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="stdafx.cpp">
-      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
-      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
-      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
-      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
-    </ClCompile>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
