@@ -14,3 +14,5 @@
 /LibCleaner/Release
 /LibCleaner/x64
 /.vs
+/BuilderUtil/build-BuilderUtil-Desktop_Qt_5_12_0_MSVC2017_32bit-Debug
+/BuilderUtil/build-BuilderUtil-Desktop_Qt_5_12_0_MSVC2017_32bit-Release
